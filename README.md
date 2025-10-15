@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raj Kumar Singh
-- 👀 I’m interested in Java/GoLang/Kubernetes 
-- 🌱 I’m currently learning cloud native technologies
+- 👀 I’m interested in Java/GoLang/Kubernetes.
+- 🌱 I’m currently learning Machine learning and AI Technologies.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach out to me https://www.linkedin.com/in/rajkrrsingh/
 
